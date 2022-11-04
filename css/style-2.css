@@ -39,12 +39,7 @@ h2 {
 }
 h3{
   text-align: justify;
-  width: 80%;
-  margin-right: 14px;
-}
-.numer{
-width: 3%;
-margin-left: 16px;
+  width: 97%;
 }
 
 .container {
@@ -383,10 +378,9 @@ input[type="submit"] {
 .incomplete-task {
   border-radius: 5px;
   height: 5%;
-  width: 79%;
+  width: 70%;
   color: rgb(11, 10, 10);
   margin-top: 36%;
- display: flex;
 }
 
 .incomplete-task p {
@@ -453,7 +447,6 @@ input[type="submit"] {
 .final {
   justify-content: center;
   text-align: center;
-  padding-left: 50px;
 }
 
 .modal{
