@@ -329,7 +329,7 @@ input[type="submit"] {
 
 .smart {
  max-width: 50%;
-  height: 106%;
+  height: 108%;
   z-index: -99;
   position: absolute;
   top: -22px;
@@ -453,6 +453,7 @@ input[type="submit"] {
 .final {
   justify-content: center;
   text-align: center;
+  padding-left: 50px;
 }
 
 .modal{
